@@ -1,15 +1,12 @@
 package com.tns.client;
 
-
-import com.tns.application.MMBankFactory;
-import com.tns.application.MMCurrentAcc;
-import com.tns.application.MMSavingAcc;
+import com.tns.Application.MMCurrentAcc;
+import com.tns.Application.MMSavingAcc;
 import com.tns.framework.BankFactory;
 import com.tns.framework.CurrentAcc;
 import com.tns.framework.SavingAcc;
-import com.tns.framework.BankAcc;
 
-public class client {
+public class Clientt {
 
 public static void main(String[] args) {
 
@@ -26,6 +23,9 @@ CA.toString();
 }
 
 }
+
+
+
 
 
 
